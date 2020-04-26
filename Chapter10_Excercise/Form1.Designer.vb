@@ -79,4 +79,8 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents ListBox1 As ListBox
     Friend WithEvents BindingSource1 As BindingSource
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+    End Sub
 End Class
